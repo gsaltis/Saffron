@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "Int16"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 195,
+                        "green": 199,
+                        "red": 109
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 127,
+                        "green": 124,
+                        "red": 35
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 160,
+            "y": 120
+        },
+        "size": {
+            "height": 30,
+            "width": 100
+        }
+    },
+    "id": {
+        "id": "10:99:97:6B:42:39:8C:34",
+        "name": "Open It"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

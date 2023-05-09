@@ -1,0 +1,423 @@
+{
+  "Display" : {
+    "width" : "ScreenWidth",
+    "height" : "ScreenHeight",
+    "x" : 0,
+    "y" : 0
+  },
+
+  "Projects" : {
+    "BasePath" : "D:/Source/Saffron/Projects/"
+  },
+
+  "DataTypeFills" : [
+    {
+      "name" : "none",
+      "fill" : {
+      }
+    },
+    {
+      "name" :  "Int8",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 160
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 80
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Int16",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 192
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 96
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Int32",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 224
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 112
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Int64",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 255
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 0,
+              "red": 128
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Float16",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 160,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 80,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Float32",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 208,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 104,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Float64",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 255,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 0,
+              "green": 128,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Char8",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 192,
+              "green": 192,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 96,
+              "green": 96,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Char16",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 128,
+              "green": 128,
+              "red": 0
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "String8",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 192,
+              "green": 0,
+              "red": 192
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 96,
+              "green": 0,
+              "red": 96
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "String16",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 255,
+              "green": 0,
+              "red": 255
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 128,
+              "green": 0,
+              "red": 128
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "Boolean",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 64,
+              "green": 128,
+              "red": 255
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue":48,
+              "green": 96,
+              "red": 192
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "name" :  "User",
+      "fill" : {
+        "rotation": 90,
+        "stops":
+        [
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue": 176,
+              "green": 0,
+              "red": 176
+            },
+            "opacity": 1,
+            "position": 0
+          },
+          {
+            "color":
+            {
+              "alpha": 255,
+              "blue":128,
+              "green": 0,
+              "red": 128
+            },
+            "opacity": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

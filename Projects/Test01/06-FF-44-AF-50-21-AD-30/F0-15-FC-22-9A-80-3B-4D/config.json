@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "String8"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 224
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 112
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 10,
+            "y": 250
+        },
+        "size": {
+            "height": 60,
+            "width": 130
+        }
+    },
+    "id": {
+        "id": "F0:15:FC:22:9A:80:3B:4D",
+        "name": "First Name"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

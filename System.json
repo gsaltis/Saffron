@@ -1,0 +1,12 @@
+{
+  "Display" : {
+    "width" : "ScreenWidth",
+    "height" : "ScreenHeight",
+    "x" : 0,
+    "y" : 0
+  },
+
+  "Projects" : {
+    "BasePath" : "${HOME}/Source/Saffron/Projects/"
+  }
+}

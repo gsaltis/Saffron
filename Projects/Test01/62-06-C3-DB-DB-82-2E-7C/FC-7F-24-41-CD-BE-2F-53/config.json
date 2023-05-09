@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "Int32"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 224
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 112
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 260,
+            "y": 100
+        },
+        "size": {
+            "height": 60,
+            "width": 120
+        }
+    },
+    "id": {
+        "id": "FC:7F:24:41:CD:BE:2F:53",
+        "name": "Int32"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

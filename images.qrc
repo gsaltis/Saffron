@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/NewProject.png</file>
+    <file>images/NewModule.png</file>
+</qresource>
+</RCC>

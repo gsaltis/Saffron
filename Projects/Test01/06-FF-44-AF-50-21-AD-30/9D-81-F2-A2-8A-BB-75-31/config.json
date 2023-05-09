@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "String8"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 246,
+                        "green": 84,
+                        "red": 192
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 183,
+                        "green": 0,
+                        "red": 96
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 10,
+            "y": 90
+        },
+        "size": {
+            "height": 60,
+            "width": 120
+        }
+    },
+    "id": {
+        "id": "9D:81:F2:A2:8A:BB:75:31",
+        "name": "Address"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

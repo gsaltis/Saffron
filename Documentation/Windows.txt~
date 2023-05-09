@@ -1,0 +1,24 @@
+MainWindow
+  QStatusBar
+  MainDisplayWindow
+    MainSaffronWindowContainer
+      MainSaffronWindow
+        SaffronBaseWindow
+          ModuleDisplayBaseWindow[]
+            ModuleDisplayWindow
+              MemberDataDisplayWidget-SaffronComponentDisplayWidget[]
+                SaffronComponentDisplayData
+                  SaffronComponentFill
+            SaffronWindowHeader
+            ModuleControlBarWindow
+          FrameDisplayWindow
+          ProjectdDisplayWindow
+            ProjectDisplayBodyWindow
+              ModuleDisplayWidget{}
+        SaffronSelectWindow
+          ModuleSelectWindow
+            ModuleSelectElement[]
+          SaffronToolBarWindow
+    MainSaffronToolBar
+  SaffronStatusBar;
+  

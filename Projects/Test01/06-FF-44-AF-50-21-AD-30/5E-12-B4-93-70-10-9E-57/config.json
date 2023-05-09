@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "String8"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 246,
+                        "green": 84,
+                        "red": 192
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 183,
+                        "green": 0,
+                        "red": 96
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 10,
+            "y": 170
+        },
+        "size": {
+            "height": 60,
+            "width": 120
+        }
+    },
+    "id": {
+        "id": "5E:12:B4:93:70:10:9E:57",
+        "name": "City"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

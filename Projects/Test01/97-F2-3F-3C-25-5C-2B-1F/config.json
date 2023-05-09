@@ -1,0 +1,51 @@
+{
+    "display": {
+        "fill": {
+            "name": "moduleGradient",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 136
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 128,
+                        "green": 128,
+                        "red": 255
+                    },
+                    "opacity": 0.4,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 140,
+            "y": 180
+        },
+        "size": {
+            "height": 30,
+            "width": 130
+        }
+    },
+    "id": {
+        "id": "97:F2:3F:3C:25:5C:2B:1F",
+        "name": "This Module"
+    },
+    "pos": {
+        "x": 140,
+        "y": 180
+    },
+    "size": {
+        "height": 30,
+        "width": 130
+    }
+}

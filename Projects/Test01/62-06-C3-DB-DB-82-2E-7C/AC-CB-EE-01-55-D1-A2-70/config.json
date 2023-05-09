@@ -1,0 +1,46 @@
+{
+    "dataElement": {
+        "type": "Int32"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 224
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 112
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 390,
+            "y": 100
+        },
+        "size": {
+            "height": 60,
+            "width": 120
+        }
+    },
+    "id": {
+        "id": "AC:CB:EE:01:55:D1:A2:70",
+        "name": "Int32"
+    }
+}

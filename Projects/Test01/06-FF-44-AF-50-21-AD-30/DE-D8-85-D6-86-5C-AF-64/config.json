@@ -1,0 +1,50 @@
+{
+    "arraydimensions": 0,
+    "constant": false,
+    "dataElement": {
+        "type": "User"
+    },
+    "display": {
+        "fill": {
+            "name": "",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 128,
+                        "green": 0,
+                        "red": 128
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 64,
+                        "green": 0,
+                        "red": 64
+                    },
+                    "opacity": 1,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 10,
+            "y": 330
+        },
+        "size": {
+            "height": 60,
+            "width": 130
+        }
+    },
+    "id": {
+        "id": "DE:D8:85:D6:86:5C:AF:64",
+        "name": "User"
+    },
+    "indirectionlevel": 0,
+    "initialvalue": ""
+}

@@ -1,0 +1,51 @@
+{
+    "display": {
+        "fill": {
+            "name": "moduleGradient",
+            "rotation": 90,
+            "stops": [
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 136
+                    },
+                    "opacity": 1,
+                    "position": 0
+                },
+                {
+                    "color": {
+                        "alpha": 255,
+                        "blue": 128,
+                        "green": 128,
+                        "red": 255
+                    },
+                    "opacity": 0.4,
+                    "position": 1
+                }
+            ],
+            "type": "gradient"
+        },
+        "pos": {
+            "x": 140,
+            "y": 70
+        },
+        "size": {
+            "height": 30,
+            "width": 100
+        }
+    },
+    "id": {
+        "id": "62:06:C3:DB:DB:82:2E:7C",
+        "name": "Test Me"
+    },
+    "pos": {
+        "x": 140,
+        "y": 70
+    },
+    "size": {
+        "height": 30,
+        "width": 130
+    }
+}
